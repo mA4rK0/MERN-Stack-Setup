@@ -1,4 +1,4 @@
-This is a setup for MERN stack.
+This is a setup for the MERN stack.
 MERN :
 1. MongoDB
 2. Express.js
@@ -10,7 +10,7 @@ IMPORTANT NOTES:
 * type npm run dev to run the program in the terminal
 
 BACKEND TUTORIAL :
-1. Make backEnd directory
+1. Make a backEnd directory
 2. Go into backEnd directory
 3. Use npm init (add -y to skip the details) in terminal
 4. Then, type npm i express in the terminal
@@ -21,4 +21,4 @@ BACKEND TUTORIAL :
 
 FRONTEND TUTORIAL:
 1. Go back to the setup directory
-2. type npx create-next-app@latest in the terminal for making the frontEnd directory
+2. type npx create-next-app@latest in the terminal for making the frontend directory
