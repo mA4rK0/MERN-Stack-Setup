@@ -8,11 +8,11 @@ This is a setup for the MERN stack.
 3. React.js / Next.js (Recommended)
 4. Node.js
 
-### IMPORTANT NOTES:
+## IMPORTANT NOTES:
 * Copy this setup directory, if you want to skip the procedure
 * type npm run dev to run the program in the terminal
 
-### BACKEND TUTORIAL :
+## BACKEND TUTORIAL :
 1. Make a backEnd directory
 2. Go into backEnd directory
 3. Use npm init (add -y to skip the details) in terminal
@@ -22,6 +22,6 @@ This is a setup for the MERN stack.
 7. type npm i cors in the terminal
 8. type npm i body-parser in the terminal
 
-### FRONTEND TUTORIAL:
+## FRONTEND TUTORIAL:
 1. Go back to the setup directory
 2. type npx create-next-app@latest in the terminal for making the frontend directory
