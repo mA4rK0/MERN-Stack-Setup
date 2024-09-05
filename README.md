@@ -2,7 +2,7 @@
 
 This is a setup for the MERN stack.
 
-MERN :
+## MERN :
 1. MongoDB
 2. Express.js
 3. React.js / Next.js (Recommended)
