@@ -1,4 +1,7 @@
+# MERN Stack
+
 This is a setup for the MERN stack.
+
 MERN :
 1. MongoDB
 2. Express.js
